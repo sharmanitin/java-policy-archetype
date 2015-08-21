@@ -1,0 +1,8 @@
+<archetype>
+  <id>java-policy-archetype</id>
+  <sources>
+    <source>src/main/java/App.java</source>
+  </sources>
+  <testSources>
+  </testSources>
+</archetype>
